@@ -77,4 +77,4 @@ node index.js
 
 ---
 
-🔗 [Full Tutorial Video](https://www.tiktok.com/@souiy1/video/7495429686885928210)
+🔗 [Full Tutorial Video](https://www.tiktok.com/@souiy1/video/7495542284163845384)
